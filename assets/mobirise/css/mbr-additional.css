@@ -454,7 +454,16 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+#header3-e .mbr-section-title,
+#header3-e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-e .mbr-section-title DIV {
+  text-align: left;
+  font-size: 16px;
+}
 #msg-box1-b H3 {
   text-align: left;
   font-size: 16px;
+  color: #ffffff;
 }

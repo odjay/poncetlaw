@@ -19,7 +19,12 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#222222",
+        "#9b928e",
+        "#b7ad9d"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.1",
@@ -30,8 +35,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 13,
-    "versionPublish": "4.10.1"
+    "uniqCompNum": 15,
+    "versionPublish": "4.10.1",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -96,28 +102,52 @@
           "_anchor": "header2-8"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "left",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "\n<div><br></div><div>Biography\n</div><div>\n</div><div>Charles Poncet practices law in Geneva and specializes in international arbitration, commercial and contractual litigation, white <br>collar matters and media law.\n<br><br></div><div>Admitted to the Geneva Bar in 1972, after two years of internship (avocat stagiaire), Charles Poncet was trained as a trial lawyer, participating in several leading criminal cases as early as 1974.\n<br><br></div><div>He practiced at Staehelin, Hafter &amp; Partners and in 1975 he joined his family law firm in Geneva (Poncet, Turrettini, Amaudruz &amp; Neyroud) founded by his father and led by his brother.\n<br><br></div><div>In 1981 he joined Lalive &amp; Budin in Geneva, until he started his own law firm in 1986, which eventually became ZPG in Geneva until the merger with CMS von Erlach Henrici in 2014.\n<br><br></div><div>He retired from CMS von Erlach Poncet SA as of December 31, 2016 and practices on his own.\n<br><br></div><div>Charles Poncet has been active in international arbitration for thirty years, initially as secretary of several international arbitral tribunals and subsequently as arbitrator, chairman or counsel. He appeared in several leading cases concerning large scale investments, joint ventures and other issues.\n</div><div><br></div><br><div>Education\n<br><br></div><div>1982 – Ph.D. in law University of Geneva\n</div><div>1975 – Master of Comparative Law, Georgetown University Law School in Washington D.C. (USA)\n</div><div>1971 – Geneva Bar\n</div><div>1969 – Geneva University Law School, licence en droit\n</div><div><br></div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beautiful-library-wallpaper-44313-45432-hd-wallpapers-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.6"
           },
           "title": "Publications<br><br><span style=\"font-weight: normal;\">Dr. Poncet has a web site <a href=\"http://www.swissarbitrationdecisions.com\" target=\"_blank\">www.swissarbitrationdecisions.com</a> containing his translations and short comments of all decisions of the Swiss Supreme Court (Federal Tribunal) concerning international arbitration since 2008. Since 2017 the website has been operated in collaboration with Dr. Despina Mavromati and a team of lawyers.&nbsp;\n<br></span><br><div>\n</div><div>Other publications include:&nbsp;\n<br><br></div><div>\n</div><div><span style=\"font-weight: normal;\">Fraud in International Arbitration, The Paris Journal of International Arbitration, 2016/4 p. 789 Res judicata: a contribution to the Debate on Claim Preclusion in International Arbitration, Liber Amicorum en l’honneur de William Laurence&nbsp;</span><span style=\"font-weight: normal; color: inherit;\">CRAIG, LEXIS NEXIS (2016)&nbsp;<br><br></span></div><div><span style=\"font-weight: normal;\">The Arbitrator was Late by One Day and His Jurisdiction Expired 2014 European International Arbitration Review 3 : 1 p. 29 (2014)&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">The Global Arbitration Report - Translation for case 4A_124/2014 (Violation of due process (right to be heard) Challenge of arbitrators Equal treatment of the parties Decisions on Lausanne Court of Arbitration for Sport).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">The Independence of the Court of Arbitration for Sport, 2012 European International Arbitration Review (2012)&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">When is a \"Swiss\" \"Award\" appealable, Paris Journal of International Arbitration, 2012/1, L.G.D.J. Lextenso éditions, p. 135&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Obtaining revision of \"Swiss\" international arbitral award : whence after Thalès ?, in Stockholm International Arbitration Review, 2009 : 2, Arbitration Institute of the Stockholm Chamber of Commerce, p. 39-53&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Can a Party Benefiting from an Award Rendered Against a State Enforce the Award Against an Instrumentality of Such State? Introductory Remarks in IAI Series No 4 on State Entities in International Arbitration, E. Gaillard and J. Younan eds., Juris Publishing, 2008&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Challenges to the jurisdiction of international arbitrators, an important decision of the Swiss Supreme Court, 50 Arbitration p. 156 (1984)&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Excerpt on international arbitration from the Swiss draft statute on private international law, XXIII International Legal Materials p. 713 (1984).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court opinions in the first and second Santa Fe cases, XXII International Legal Materials p. 785 (1983) and XXIV International Legal Materials p. 745 (1985).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court opinion in the matter of EL NASR EXPORT IMPORT &amp; CO. v. ANGLO FRENCH STEEL CORPORATION SA, XXIII International </span><span style=\"font-weight: normal; color: inherit;\">Legal Materials p. 1143 (1984), also X Yearbook Commercial Arbitration p. 123 (1985).&nbsp;<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Book review (Bank accounts: a world guide to confidentiality), 78 American Journal of International Law 1013 (1984).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">The new Swiss statute on international arbitration, XXVII International Legal Materials p. 37 (1988).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Switzerland's new statute on international arbitration, 1 WAMR 15 (1990).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court clarifies scope of the new arbitration law, 1 WAMR 52 (1990).&nbsp;\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court finds no immediate right to appeal Court's appointment of arbitrator, 1 WAMR 88 (1990).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court examines implications of stay based on set-off counterclaim, 2 WAMR 38 (1991).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court gives narrow construction to \"public policy\", 2 WAMR 97&nbsp;\n</span></div><div><span style=\"font-weight: normal;\">(1991).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Lack of reasoned opinion will not form basis for appeal under Swiss law, 2 WAMR 241 (1991).&nbsp;\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court reaffirms strict view of public policy, 2 WAMR 265 (1991).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">Swiss Supreme Court rules on severability, waiver of appeal, right to be heard, 2 WAMR 297 (1991).&nbsp;\n<br><br></span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">La perception Suisse de la Kompetenz-Kompetenz, Les Cahiers de l’Arbitrage 20131 p.27 (2014)&nbsp;\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">Le Tribunal fédéral suisse annule (enfin?) une sentence arbitrale internationale pour contrariété à l'ordre public, Les Cahiers de l'Arbitrage, 2011/4, L.G.D.J. Lextenso éditions, p. 1093&nbsp;<br></span><span style=\"font-weight: normal; color: inherit;\"><br>Charles Poncet is also actively involved in debates in the Swiss press on political and social issues. His column in L’Hebdo, a Swiss weekly in French until 2016, was widely read and praised for the clarity and sometimes the audacity of its Contents.  his own</span></div><div><span style=\"font-weight: normal;\"><br><br><br><br></span><br></div>",
-          "text": "<br><b>Biography</b><br><br>Charles Poncet practices law in Geneva and specializes in international arbitration, commercial and contractual litigation, white collar matters and media law. \n<div>\n</div><div>Admitted to the Geneva Bar in 1972, after two years of internship (avocat stagiaire), Charles Poncet was trained as a trial lawyer, participating in several leading criminal cases as early as 1974. \n</div><div>\n</div><div>He practiced at Staehelin, Hafter &amp; Partners and in 1975 he joined his family law firm in Geneva (Poncet, Turrettini, Amaudruz &amp; Neyroud) founded by his father and led by his brother. \n</div><div>\n</div><div>In 1981 he joined Lalive &amp; Budin in Geneva, until he started his own law firm in 1986, which eventually became ZPG in Geneva until the merger with CMS von Erlach Henrici in 2014. \n</div><div>\n</div><div>He retired from CMS von Erlach Poncet SA as of December 31, 2016 and practices on his own. \n</div><div>\n</div><div>Charles Poncet has been active in international arbitration for thirty years, initially as secretary of several international arbitral tribunals and subsequently as arbitrator, chairman or counsel. He appeared in several leading cases concerning large scale investments, joint ventures and other issues. \n</div><div>\n</div><div>Education \n</div><div>1982 – Ph.D. in law University of Geneva \n</div><div>1975 – Master of Comparative Law, Georgetown University Law School in Washington D.C. (USA) \n</div><div>1971 – Geneva Bar \n</div><div>1969 – Geneva University Law School, licence en droit \n</div><div>\n</div><div><br></div>",
+          "text": "<div></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.swissarbitrationdecisions.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">www.swissarbitrationdecisions.com</a>",
           "_tags": [
             "Theme"
@@ -127,7 +157,8 @@
           "_styles": {
             "H3": {
               "text-align": "left",
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#ffffff"
             }
           }
         },
@@ -160,8 +191,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>Dr Charles Poncet, M.C.L.\n<br>Rue Bovy-Lysberg 2\n<br>Case postale 5824 <br>1211 Geneva 11 <br>Switzerland&nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: charles@poncet.law <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">w</a>ww.cms.law<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">w</a>ww.poncet.law<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:charles@poncet.law\">charles@poncet.law</a> <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><a href=\"http://www.swissarbitrationdecisions.com\" target=\"_blank\">www.swissarbitrationdecisions.com</a><br>",
           "_tags": [
             "Theme"
           ],
