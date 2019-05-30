@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#222222",
         "#9b928e",
-        "#b7ad9d"
+        "#b7ad9d",
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -177,7 +178,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2019-05-30-11-16-40-pied-page.png-image-png-1284196-pixels-92x90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-86x85.png",
               "width": 128,
               "active": true,
               "link": "",
