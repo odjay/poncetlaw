@@ -34,7 +34,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -344,6 +344,131 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-52-39-rts.ch-archives-tv-information-dossiers-justice-294x458.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/10186063-l-affaire-popesco.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-52-54-rts.ch-archives-tv-information-dossiers-justice-295x456.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/9372712-l-affaire-reymonda.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-53-08-rts.ch-archives-tv-information-dossiers-justice-292x454.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/9365609-l-affaire-moutachawik.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-53-29-rts.ch-archives-tv-information-dossiers-justice-295x404.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/5040847-le-mystere-belshaw.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-53-42-rts.ch-archives-tv-information-dossiers-justice-291x405.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/4556823-peine-capitale.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-08-15-17-53-57-rts.ch-archives-tv-information-dossiers-justice-295x405.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.rts.ch/archives/tv/information/dossiers-justice/4710963-l-empoisonneuse.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-n"
         }
       ]
     }
