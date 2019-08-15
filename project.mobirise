@@ -310,43 +310,6 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/2019-05-30-11-16-40-pied-page.png-image-png-1284196-pixels-92x90.jpg",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Dr Charles Poncet, M.C.L.\n<br>Rue Bovy-Lysberg 2\n<br>Case postale 5824 <br>1211 Geneva 11 <br>Switzerland&nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: charles@poncet.law <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-a"
-        },
-        {
-          "_params": {
             "showImages": true,
             "showTitles": false,
             "showSubtitles": false,
@@ -469,6 +432,43 @@
           ],
           "_name": "features3",
           "_anchor": "features3-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2019-05-30-11-16-40-pied-page.png-image-png-1284196-pixels-92x90.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Dr Charles Poncet, M.C.L.\n<br>Rue Bovy-Lysberg 2\n<br>Case postale 5824 <br>1211 Geneva 11 <br>Switzerland&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: charles@poncet.law <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-a"
         }
       ]
     }
