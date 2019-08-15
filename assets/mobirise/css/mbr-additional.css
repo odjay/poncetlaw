@@ -467,3 +467,9 @@ section.form .container {
   font-size: 16px;
   color: #ffffff;
 }
+#features1-m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#content2-l DIV {
+  text-align: left;
+}

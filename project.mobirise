@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Poncet.Law",
+    "name": "Poncet.Law-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -22,9 +22,7 @@
       },
       "additionalSetColors": [
         "#222222",
-        "#9b928e",
-        "#b7ad9d",
-        "#2e2e2e"
+        "#9b928e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -36,7 +34,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
-    "uniqCompNum": 15,
+    "uniqCompNum": 23,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png"
   },
@@ -76,7 +74,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/poncetround-377x389.png",
+              "src": "@PROJECT_PATH@/assets/images/charles-poncet-rond2-407x390.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -165,6 +163,153 @@
         },
         {
           "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p>Click on any of the publications of Dr.Poncet to see it:</p><p><br></p><p><a href=\"assets/files/Stockholm International Arbitration Review 2009-2.pdf\">Stockholm International Arbitration Review 2009&nbsp;</a></p><p><a href=\"assets/files/Paris Journal of International Arbitration 2011 (4).pdf\">Paris Journal of International Arbitration 2011</a>\n</p><p><a href=\"assets/files/paris_journal_of_international_arbitration_2012.pdf\">Paris Journal of International Arbitration 2012</a>\n</p><p><a href=\"assets/files/european_international_arbitration_review_april_2012.pdf\">European International Arbitration Review April 2012</a>\n</p><p><a href=\"assets/files/les_cahiers_de_l'arbitrage-dissenting_and_separate_opinions_in_investment_traty_arbitration.pdf\">Les cahiers de l'arbitrage - Dissenting and Separate Opinions in Investment Traty Arbitration</a>\n</p><p><a href=\"assets/files/res_judicata-a_contribution_to_the_debate_on_claim_preclusion_in_international_arbitration_(liber_amicorum_laury_craig).pdf\">Res judicata - a contribution to the debate on claim preclusion in international arbitration (Liber Amicorum Laury CRAIG)</a></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-j"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cp-la-haye-en-octobre-2013-2-600x871.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/phva-13131-s.b.-13-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cp-correction-fins-de-stage-dcembre-2009-600x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "CP à La Haye en octobre 2013 2",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "PHVA<br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "CP correction fins de stage décembre 2009",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-m",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p>Articles de presse et médias<br><br><a href=\"assets/files/2019 06 21 - Le Temps.pdf\" target=\"_blank\">Charles Poncet - Jeanne Rose ARN - Le TEMPS 2019</a></p><p><a href=\"assets/files/2018 06 - Forumpoenale - débats officiels secrets et liberté de l'information.pdf\" target=\"_blank\">Débats officiels secrets et liberté de l'information Poncet &amp; Grodecki 2018</a></p><p><a href=\"assets/files/Lexis Nexis Arbitration annual round-upinternational arbitrationkey seats reviewing 2017 and previewing 2018.pdf\" target=\"_blank\">Lexis-Nexis Arbitration annual round-up—international arbitration 2018</a></p><p><a href=\"assets/files/Mélanges Spielmann La suisse face à l'article 10 CEDH.pdf\" target=\"_blank\">Mélanges Spielmann La suisse face à l'article 10 CEDH</a></p><p><a href=\"assets/files/2016 10 14 Croquis d'audience Warluzel.pdf\" target=\"_blank\">Croquis d'audience Warluzel&nbsp;2016</a></p><p><a href=\"assets/files/2017 01 13 Article GAR CP move.pdf\" target=\"_blank\">Article GAR CP move 2017</a></p><p><a href=\"assets/files/2017 01 15 Arbitration 360.pdf\" target=\"_blank\">Article LAW 360 Arbitration 2017</a></p><p><a href=\"assets/files/Article FOLIO NZZ.PDF\" target=\"_blank\">Article NZZ FOLIO 2012</a></p><p><a href=\"assets/files/Article Poget 24 heures.pdf\" target=\"_blank\">Article 24Heures</a></p><p><a href=\"assets/files/Extraits Livre de Birkenfeld.pdf\" target=\"_blank\">Extraits Livre de Birkenfeld</a></p><p><a href=\"assets/files/Hommage à Pierre LALIVE.pdf\" target=\"_blank\">Hommage à Pierre LALIVE</a></p><p><a href=\"assets/files/L'illustré article yoga avril 2011.pdf\" target=\"_blank\">L'illustré article yoga avril 2011</a></p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-l",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -178,7 +323,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-1-86x85.png",
+              "src": "@PROJECT_PATH@/assets/images/2019-05-30-11-16-40-pied-page.png-image-png-1284196-pixels-92x90.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -192,8 +337,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>Dr Charles Poncet, M.C.L.\n<br>Rue Bovy-Lysberg 2\n<br>Case postale 5824 <br>1211 Geneva 11 <br>Switzerland&nbsp;<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:charles@poncet.law\">charles@poncet.law</a> <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><a href=\"http://www.swissarbitrationdecisions.com\" target=\"_blank\">www.swissarbitrationdecisions.com</a><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: charles@poncet.law <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><br>",
           "_tags": [
             "Theme"
           ],
