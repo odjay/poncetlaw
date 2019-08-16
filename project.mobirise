@@ -463,7 +463,7 @@
           },
           "text1": "<strong>Address</strong><br>Dr Charles Poncet, M.C.L.\n<br>Rue Bovy-Lysberg 2\n<br>Case postale 5824 <br>1211 Geneva 11 <br>Switzerland&nbsp;<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: charles@poncet.law <br>\nPhone: +41 22 311 00 10<br>Fax : +41 22 311 00 20 <br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>\n<a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><br>",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"http://www.poncet.law\">www.poncet.law</a><br><a href=\"http://www.cms.law\" target=\"_blank\">www.cms.law</a><br>",
           "_tags": [
             "Theme"
           ],
